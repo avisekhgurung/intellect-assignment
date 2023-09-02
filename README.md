@@ -2,7 +2,7 @@
 - [Documentation Home](docs/index.md)
 
 
-##Intellect Assignment
+#Intellect Assignment
 
 #Introduction
 
