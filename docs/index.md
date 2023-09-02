@@ -26,39 +26,68 @@ Here is a list of technologies, libraries, and frameworks used in the project, a
 Dependencies:
 
 @emotion/react - Version 11.11.1
+
 @emotion/styled - Version 11.11.0
+
 @mui/material - Version 5.14.7
+
 react - Version 18.2.0
+
 react-circular-progressbar - Version 2.1.0
+
 react-dom - Version 18.2.0
+
 react-type-animation - Version 3.1.0
 
 
 DevDependencies:
 
 @babel/preset-env - Version 7.22.14
+
 @babel/preset-react - Version 7.22.5
+
 @babel/preset-typescript - Version 7.22.11
+
 @mui/types - Version 7.2.4
+
 @testing-library/jest-dom - Version 6.1.2
+
 @testing-library/react - Version 14.0.0
+
 @types/jest - Version 29.5.4
+
 @types/react - Version 18.2.15
+
 @types/react-dom - Version 18.2.7
+
 @typescript-eslint/eslint-plugin - Version 6.0.0
+
 @typescript-eslint/parser - Version 6.0.0
+
 @vitejs/plugin-react - Version 4.0.3
+
 babel-jest - Version 29.6.4
+
 eslint - Version 8.45.0
+
 eslint-plugin-react-hooks - Version 4.6.0
+
 eslint-plugin-react-refresh - Version 0.4.3
+
 jest - Version 29.6.4
+
 jest-environment-jsdom - Version 29.6.4
+
 react-test-renderer - Version 18.2.0
+
 ts-jest - Version 29.1.1
+
 ts-node - Version 10.9.1
+
 typescript - Version 5.0.2
+
 vite - Version 4.4.5
+
 These technologies, libraries, and frameworks are used to develop, test, and build the ReactJS application and its components.
 
 
