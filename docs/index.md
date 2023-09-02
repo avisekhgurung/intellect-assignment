@@ -7,20 +7,17 @@ This project aims to create a ReactJS application featuring two widgets – a Ci
 #Project Structure
 
 Intellect Assignment/
-  ├── src/
-  │   ├── components/
-  │   │   ├── CircularSliderWithBar.js
-  │   │   ├── VolumeBar.js
-  │   ├── pages/
-  │   │   ├── Widgets.js
-  │   ├── index.js
-  │   ├── ...
-  ├── __tests__/
-  │   ├── CircularSliderWithBar.test.js
-  │   ├── VolumeBar.test.js
-  ├── ...
-  ├── package.json
-  ├── ...
+├── src/
+│ ├── components/
+│ │ ├── CircularSliderWithBar.js
+│ │ ├── VolumeBar.js
+│ ├── pages/
+│ │ ├── Widgets.js
+│ ├── index.js
+├── tests/
+│ ├── CircularSliderWithBar.test.js
+│ ├── VolumeBar.test.js
+├── package.json
 
 #Technologies Used
 
