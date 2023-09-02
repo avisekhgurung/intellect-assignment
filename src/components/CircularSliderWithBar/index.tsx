@@ -11,6 +11,7 @@ const CircularSliderWithBar = () => {
     const [circularSliderValue, setCircularSliderValue] = useState<number>(0);
 
     const handleSliderChange = (event: Event, newValue: number | number[]) => {
+        event.preventDefault()
         if (typeof newValue === 'number') {
             setSliderValue(newValue);
             setCircularSliderValue(newValue * 10);

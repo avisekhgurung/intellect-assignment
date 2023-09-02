@@ -1,5 +1,4 @@
 import { Box, Grid } from '@mui/material'
-import React from 'react'
 import CircularSliderWithBar from '../../components/CircularSliderWithBar'
 import { TypeAnimation } from 'react-type-animation'
 import { useMediaQuery } from '@mui/material';
