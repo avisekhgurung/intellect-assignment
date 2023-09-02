@@ -35,6 +35,8 @@ react - Version 18.2.0
 react-circular-progressbar - Version 2.1.0
 react-dom - Version 18.2.0
 react-type-animation - Version 3.1.0
+
+
 DevDependencies:
 
 @babel/preset-env - Version 7.22.14
