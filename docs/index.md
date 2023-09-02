@@ -66,15 +66,15 @@ These technologies, libraries, and frameworks are used to develop, test, and bui
 
 The main components of the project and their purposes are as follows
 
-1.Circular Slider with Bar
+1. Circular Slider with Bar
 This component displays an animated circular progress bar that can be controlled by  dragging slider to change its value.
 
-2.Volume Bar
+2. Volume Bar
 The VolumeBar component is a React-based volume control bar that allows users to select volume levels, with each level visually represented by a bar. Users can click on bars to adjust the volume, and the selected volume level is highlighted.
 
 #Pages
 
-1.Widgets
+1. Widgets
 The Widgets page is a React component that displays two widgets: "CircularSliderWithBar" and "VolumeBar." It includes a dynamic title animation, responsive grid layout, and user-friendly widget presentation. The page is suitable for showcasing and interacting with these widgets in a visually appealing manner.
 
 #Test Cases
