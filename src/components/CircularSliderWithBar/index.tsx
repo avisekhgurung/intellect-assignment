@@ -37,7 +37,7 @@ const CircularSliderWithBar = () => {
                     <div style={{position: 'relative'}}>
                         <img style={{ width: 90, marginTop: 0 }} src="/earth3.png" alt="doge" />
                     </div>
-                    <div style={{ fontSize: '3rem', position: 'absolute', top: `${isMobile ? '5rem' : '7rem'}` }}>
+                    <div style={{ fontSize: '3rem', position: 'absolute', top: `${isMobile ? '4.5rem' : '7rem'}` }}>
                         <h4>{sliderValue}</h4>
                     </div>
                 </CircularProgressbarWithChildren>
