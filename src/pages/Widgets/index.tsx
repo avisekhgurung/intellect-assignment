@@ -23,9 +23,6 @@ const Widgets = () => {
                 style={{ fontSize: `2.2rem`, fontWeight: 'bold' }}
                 repeat={Infinity}
             />
-            {/* <h2 className='heading-primary'>
-                INTELLECT ASSIGNMENT
-            </h2> */}
             <Grid container spacing={isMobile ? 10 : isTablet ? 10 :  2} mt={isMobile ? 0 : isTablet ? 1 : 10}>
                 <Grid item xs={12} md={6} lg={6}>
                     <div style={{ textAlign: 'center' }}>

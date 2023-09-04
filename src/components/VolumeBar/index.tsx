@@ -46,7 +46,6 @@ const VolumeBar = () => {
                       selectedValues.includes(value) ? 'selected' : ''
                     }`}
                     onClick={() => handleBarClick(value)}
-                    data-testid={`bar-${value}`} // Add data-testid
                   />
                 ))}
             </Box>
