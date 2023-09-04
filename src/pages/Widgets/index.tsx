@@ -6,7 +6,7 @@ import VolumeBar from '../../components/VolumeBar';
 
 const Widgets = () => {
     const isMobile = useMediaQuery('(max-width: 767px)');
-    const isTablet = '(min-width: 768px)';
+    const isTablet = useMediaQuery('(min-width: 768px)');
     return (
         <Box m={3} sx={{ textAlign: 'center' }}>
             <TypeAnimation
