@@ -123,7 +123,9 @@ Test 3: Updates value on slider change
 
 Description: Tests if the value updates correctly when the slider is changed.
 Expected Outcome: The value should reflect the slider value multiplied by 10.
+
 VolumeBar Component Tests
+
 Test 1: Renders without crashing
 
 Description: Checks if the component renders without errors.
